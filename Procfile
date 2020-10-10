@@ -1,1 +1,1 @@
-worker: python cool_bot.py
+worker: python cool_Bot.py
